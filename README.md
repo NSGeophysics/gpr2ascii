@@ -1,5 +1,7 @@
 # gpr2ascii
 
+Python script to export GPRPy's .gpr files into ASCII data files (text files with data values).
+
 ## Usage
 
 If you have a .gpr file exported from GPRPy, say it is called `mydata.gpr`, you can turn it into an ASCII data file by running
